@@ -1,0 +1,7 @@
+
+mysql-connector-python
+pandas
+nltk
+spacy
+pytest
+jupyter
